@@ -51,6 +51,7 @@ pip install requests geopy matplotlib beautifulsoup4
 - 🎯 CO₂ цели
 - 💡 Съвети
 - 👥 Общност
+- Използва се Python 13.12 версия
 - 👤 Профил
 
 ## ☁️ База данни
